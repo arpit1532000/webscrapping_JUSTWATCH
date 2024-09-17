@@ -1,7 +1,3 @@
-Here is a template for your README file for GitHub:
-
----
-
 # Web Scraping Analysis Project
 
 ## Project Overview
